@@ -37,7 +37,7 @@ python app.py
 
 ## 🔗 Acesso ao Sistema (Deploy)
 
-O sistema está disponível online pelo Render:
+O sistema está disponível online pelo Render: Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
 ➡️ **https://surebet-simulator.onrender.com**
 
